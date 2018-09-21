@@ -7,6 +7,11 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Button Content="Attack" HorizontalAlignment="Left" Margin="56,76,0,0" VerticalAlignment="Top" Width="75" FontWeight="SemiBold" Click="Button_Click">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+
     </Grid>
 </Window>
