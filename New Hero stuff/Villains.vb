@@ -1,5 +1,5 @@
-﻿Class Villians
-    Dim Villans As ArrayList = New ArrayList()
+﻿Class Villains
+    Dim Villains As ArrayList = New ArrayList()
     Private _Name As String
     Private _Quote As String
     Private _Move As String
